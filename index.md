@@ -17,7 +17,7 @@ Bachelor of Engineering in Biomedical Engineering, Sep 2022 – Jul 2026
 
 ### Beijing Natural Science Foundation (PI)
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform for Stroke Patients**  
-**Authors:** Songjun Du, Yijin Li, Tao Liu  
+**Authors:** **Songjun Du**, Yijin Li, Tao Liu  
 Project No. QY24143, Funded Oct 2024  
 ![Image Placeholder 1](path/to/image1.png)
 
@@ -25,7 +25,7 @@ Project No. QY24143, Funded Oct 2024
 
 ### IRHE Conference 2025
 **An MR-based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
-**Authors:** Songjun Du, Ying Dong, Xiaoyu Liu  
+**Authors:** **Songjun Du**, Ying Dong, Xiaoyu Liu  
 Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics  
 ![Image Placeholder 2](path/to/image2.png)
 
@@ -33,7 +33,7 @@ Oral Presentation, International Conference on Intelligent Rehabilitation and Hu
 
 ### IEEE Transactions on Industrial Informatics (Under Review)
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
-**Authors:** Min Tang, Xiaoyu Liu, et al., Songjun Du...  
+**Authors:** Min Tang, Xiaoyu Liu, et al., **Songjun Du**...  
 Submitted Apr 2025  
 ![Image Placeholder 3](path/to/image3.png)
 
