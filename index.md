@@ -1,4 +1,4 @@
-# Songjun Du
+# Songjun Du (杜松骏)
 **Undergraduate Student in Biomedical Engineering**  
 **Beihang University, Beijing, China**  
 **Email:** [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)
@@ -15,7 +15,7 @@ Bachelor of Engineering in Biomedical Engineering, Sep 2022 – Jul 2026
 
 ## 🧠 Publications & Research Projects
 
-### 🔬 Beijing Natural Science Foundation (PI)
+### Beijing Natural Science Foundation (PI)
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform for Stroke Patients**  
 **Authors:** Songjun Du, Yijin Li, Tao Liu  
 Project No. QY24143, Funded Oct 2024  
@@ -23,7 +23,7 @@ Project No. QY24143, Funded Oct 2024
 
 ---
 
-### 🔬 IRHE Conference 2025
+### IRHE Conference 2025
 **An MR-based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
 **Authors:** Songjun Du, Ying Dong, Xiaoyu Liu  
 Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics  
@@ -31,7 +31,7 @@ Oral Presentation, International Conference on Intelligent Rehabilitation and Hu
 
 ---
 
-### 🔬 IEEE Transactions on Industrial Informatics (Under Review)
+### IEEE Transactions on Industrial Informatics (Under Review)
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 **Authors:** Min Tang, Xiaoyu Liu, et al., Songjun Du...  
 Submitted Apr 2025  
@@ -115,6 +115,4 @@ Built a PyQt5 software tool for myopia risk prediction integrating image segment
 - Organizer, BUAA-Kingsoft Summer Practice Program, recognized as Outstanding City-level Team (2024)  
 - Media Assistant, Career Development Center of BUAA (2024–2025): responsible for company liaison, interviews, video editing  
 
----
 
-> To insert project images, replace `path/to/imageX.png` with actual file paths or URLs.
