@@ -1,6 +1,5 @@
 # Songjun Du 杜松骏
 
-**Undergraduate Student in Biomedical Engineering**  
 **Beihang University, Beijing, China**  
 **Email**: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)
 
