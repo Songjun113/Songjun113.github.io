@@ -1,20 +1,13 @@
-<!-- # Songjun Du 杜松骏 -->
-
-**Beihang University, Beijing, China**  
-**Email**: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)
-
-
-## Education
----
-**Beihang University**, Beijing, China  
-**Bachelor of Engineering in Biomedical Engineering**  
+<font color= #527BBD>**Bachelor of Engineering in Biomedical Engineering**</font>  
+*Beihang University, Beijing, China*  
 *Sep 2022 – Jul 2026*  
-**Advisors**: Prof. Tao Liu, Prof. Xiaoyu Liu
+*Email: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)*  
+*Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu*
 
 
-## Publications & Projects
+
+## <font color= #527BBD>Publications</font>
 ---
-
 ### Beijing Natural Science Foundation  
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
 ***Songjun Du**, Yijin Li, Tao Liu*  
@@ -32,8 +25,7 @@
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
 *Under Review, Submitted Apr 2025*
 
-
-## Awards & Honors
+## <font color= #527BBD>Awards & Honors</font>
 ---
 
 **First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
@@ -44,8 +36,7 @@
 **First-Class Scholarship for Social Practice**, *Beihang University, 2024*
 
 
-
-## Patents & Software Copyrights
+## <font color= #527BBD>Patents & Software Copyrights</font>
 ---
 
 **Invention Patent**: Multi-modal Hand Function Rehabilitation System and Method *CN 118787340 A*  
@@ -55,8 +46,7 @@
 **Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
 *Under Review, Research-to-Practice Program*
 
-
-## Research Experience
+## <font color= #527BBD>Research Experience</font>
 ---
 ### Mixed Reality-Based Upper Limb Assessment System  
 *Jan 2025 – Present* | *First Author*  
@@ -90,8 +80,7 @@
 - Developed a PyQt5 tool for myopia risk prediction using image segmentation, 3D modeling, and risk scoring.  
 - Received top award in the *19th “Challenge Cup” National Innovation Program*.
 
-
-## Extracurricular Activities
+## <font color= #527BBD>Extracurricular Activities</font>
 ---
 
 - **Starting Player**, School Football Team, *School of Biomedical Engineering, Beihang University, 2022–2024*  
