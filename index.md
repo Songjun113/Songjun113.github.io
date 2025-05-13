@@ -3,19 +3,61 @@
 **Beihang University, Beijing, China**  
 **Email**: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)
 
----
 
 ## Education
-
+---
 **Beihang University**, Beijing, China  
 **Bachelor of Engineering in Biomedical Engineering**  
 *Sep 2022 – Jul 2026*  
 **Advisors**: Prof. Tao Liu, Prof. Xiaoyu Liu
 
+
+## Publications & Projects
 ---
 
-## Research Experience
+### Beijing Natural Science Foundation  
+**A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
+***Songjun Du**, Yijin Li, Tao Liu*  
+*QY24143* 
+*Funded, Oct 2024*
 
+### IRHE Conference 2025  
+**An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
+***Songjun Du**, Ying Dong, Xiaoyu Liu*  
+*Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics*  
+*Accepted, 2025*
+
+### IEEE Transactions on Industrial Informatics  
+**An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
+*Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
+*Under Review, Submitted Apr 2025*
+
+
+## Awards & Honors
+---
+
+**First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
+**First Prize (Top 1%)**, *9th National Biomedical Engineering Innovation Contest, 2024*  
+**Special Prize (Top 1%)**, *19th “Challenge Cup” National Innovation Program, 2024*  
+**Fengru Star of Innovation and Entrepreneurship**, *Beihang University, 2023*  
+**Innovation and Entrepreneurship Scholarship**, *Beihang University, 2024*  
+**First-Class Scholarship for Social Practice**, *Beihang University, 2024*
+
+
+
+## Patents & Software Copyrights
+---
+
+**Invention Patent**: Multi-modal Hand Function Rehabilitation System and Method *CN 118787340 A*  
+*Public Disclosure, Jun 2024*  
+**Software Copyright**: Personalized Multi-modal Hand Function Assessment Platform *2024SR0743523*  
+*Granted, May 2024*  
+**Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
+*Under Review, Research-to-Practice Program*
+
+
+## Research Experience
+---
 ### Mixed Reality-Based Upper Limb Assessment System  
 *Jan 2025 – Present* | *First Author*  
 - Developed a mixed reality system using Pico4 Ultra HMD for upper limb motor function assessment.  
@@ -48,52 +90,9 @@
 - Developed a PyQt5 tool for myopia risk prediction using image segmentation, 3D modeling, and risk scoring.  
 - Received top award in the *19th “Challenge Cup” National Innovation Program*.
 
----
-
-## Publications & Projects
-
-### Beijing Natural Science Foundation  
-**A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
-***Songjun Du**, Yijin Li, Tao Liu*  
-*QY24143* 
-*Funded, Oct 2024*
-
-### IRHE Conference 2025  
-**An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
-***Songjun Du**, Ying Dong, Xiaoyu Liu*  
-*Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics*  
-*Accepted, 2025*
-
-### IEEE Transactions on Industrial Informatics  
-**An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
-*Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
-*Under Review, Submitted Apr 2025*
-
----
-
-## Awards & Honors
-
-**First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
-**First Prize (Top 1%)**, *9th National Biomedical Engineering Innovation Contest, 2024*  
-**Special Prize (Top 1%)**, *19th “Challenge Cup” National Innovation Program, 2024*  
-**Fengru Star of Innovation and Entrepreneurship**, *Beihang University, 2023*  
-**Innovation and Entrepreneurship Scholarship**, *Beihang University, 2024*  
-**First-Class Scholarship for Social Practice**, *Beihang University, 2024*
-
----
-
-## Patents & Software Copyrights
-
-**Invention Patent**: Multi-modal Hand Function Rehabilitation System and Method *CN 118787340 A*  
-*Public Disclosure, Jun 2024*  
-**Software Copyright**: Personalized Multi-modal Hand Function Assessment Platform *2024SR0743523*  
-*Granted, May 2024*  
-**Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
-*Under Review, Research-to-Practice Program*
-
----
 
 ## Extracurricular Activities
+---
 
 - **Starting Player**, School Football Team, *School of Biomedical Engineering, Beihang University, 2022–2024*  
 - **President**, BUAA Parkour Association (*3-star rated student society, 2023–2025*)  
