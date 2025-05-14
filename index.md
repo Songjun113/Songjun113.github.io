@@ -1,9 +1,21 @@
-<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Bachelor of Engineering in Biomedical Engineering</span>
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <span style="color: #527BBD; font-family: sans-serif; font-weight: bold; font-size: 1.2em;">Bachelor</span>
+      <p><i>Beihang University, Beijing, China</i></p>
+      <p><i>Engineering in Biomedical Engineering
+      <p><i>Sep 2022 – Jul 2026</i></p>
+      <p><i>Email: dsjzzn@buaa.edu.com</i></p>
+      <p><i>Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu</i></p>
+    </td>
+    <td width="25%" style="text-align: right;">
+      <img src="/me.png" width="200px" style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
+</div>
 
-*Beihang University, Beijing, China*  
-*Sep 2022 – Jul 2026*  
-*Email: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)*  
-*Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu*
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Publications</span>  
 ---
