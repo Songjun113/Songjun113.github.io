@@ -1,1 +1,30 @@
+title: "Songjun Du's Academic Page"
+description: "Personal website for research and projects"
+url: "https://songjun113.github.io"
 theme: minima
+
+minima:
+  skin: light
+  social_links:
+    github: songjun113
+    linkedin: yourlinkedin
+
+author:
+  name: "Songjun Du"
+  email: "dsjzzn@buaa.edu.com"
+  university: "Beihang University"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
