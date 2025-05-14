@@ -4,7 +4,7 @@
     <td width="75%">
       <span style="color: #527BBD; font-family: sans-serif; font-weight: bold; font-size: 1.2em;">Bachelor</span>
       <p><i>Beihang University, Beijing, China</i></p>
-      <p><i>Engineering in Biomedical Engineering
+      <p><i>Engineering in Biomedical Engineering</i></p>
       <p><i>Sep 2022 – Jul 2026</i></p>
       <p><i>Email: dsjzzn@buaa.edu.com</i></p>
       <p><i>Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu</i></p>
