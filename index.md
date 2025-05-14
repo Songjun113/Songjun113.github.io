@@ -1,4 +1,4 @@
-<font color= #527BBD>**Bachelor of Engineering in Biomedical Engineering**</font>  
+### <p style="color:#527BBD">Bachelor of Engineering in Biomedical Engineering</p>    
 *Beihang University, Beijing, China*  
 *Sep 2022 – Jul 2026*  
 *Email: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)*  
@@ -6,26 +6,30 @@
 
 
 
-## <font color= #527BBD>Publications</font>
+## <p style="color:#527BBD">Publications</p>
 ---
 ### Beijing Natural Science Foundation  
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
 ***Songjun Du**, Yijin Li, Tao Liu*  
 *QY24143* 
-*Funded, Oct 2024*
+*Funded, Oct 2024*  
+![Beijing Municipal Natural Science Foundation](BJN.png)
+
 
 ### IRHE Conference 2025  
 **An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
 ***Songjun Du**, Ying Dong, Xiaoyu Liu*  
 *Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics*  
-*Accepted, 2025*
+*Accepted, 2025*  
+![irhe](IRHE.png)  
 
-### IEEE Transactions on Industrial Informatics  
+
+### IEEE JBHI  
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
 *Under Review, Submitted Apr 2025*
 
-## <font color= #527BBD>Awards & Honors</font>
+## <p style="color:#527BBD">Awards & Honors</p>
 ---
 
 **First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
@@ -36,7 +40,7 @@
 **First-Class Scholarship for Social Practice**, *Beihang University, 2024*
 
 
-## <font color= #527BBD>Patents & Software Copyrights</font>
+## <p style="color:#527BBD">Patents & Software Copyrights</p>
 ---
 
 **Invention Patent**: Multi-modal Hand Function Rehabilitation System and Method *CN 118787340 A*  
@@ -46,41 +50,51 @@
 **Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
 *Under Review, Research-to-Practice Program*
 
-## <font color= #527BBD>Research Experience</font>
+## <p style="color:#527BBD">Research Experience</p>
 ---
 ### Mixed Reality-Based Upper Limb Assessment System  
 *Jan 2025 – Present* | *First Author*  
 - Developed a mixed reality system using Pico4 Ultra HMD for upper limb motor function assessment.  
 - Integrated eye tracking and inverse kinematics to minimize cognitive load in motion capture.  
 - Planned clinical validation at Beijing Geriatric Hospital.  
-- Target journal: *Journal of NeuroEngineering and Rehabilitation (JNER)*.
+- Target journal: *Journal of NeuroEngineering and Rehabilitation (JNER)*.  
+![project1](p1.png)    
+
 
 ### Multi-modal Hand Function Assessment & Rehabilitation Platform  
 *Sep 2023 – Present* | *First Author*  
 - Designed a system integrating flex, IMU, and sEMG sensors with CNN-LSTM models for motor state evaluation.  
 - Developed a PyQt5 GUI and pneumatic glove controller.  
-- Secured invention patent and software copyright.
+- Secured invention patent and software copyright.  
+![project2](p2.png)     
+
 
 ### 3D Targeting for Orthopedic Shockwave Therapy  
 *Sep 2023 – Dec 2023* | *Co-First Author*  
-- Combined infrared thermography, YOLO detection, and depth mapping for accurate target area reconstruction in physiotherapy.
+- Combined infrared thermography, YOLO detection, and depth mapping for accurate target area reconstruction in physiotherapy.  
+![project3](p3.png)     
 
 ### EEG-Based Cognitive Load Analysis in Flight Simulation  
 *Feb 2024 – Present* | *Co-First Author*  
 - Analyzed EEG signals from 18 pilots using band power and deep learning models (MLP, ADFCNN, Conformer) for cognitive state estimation.  
-- Preparing manuscript for *IEEE BIBM*.
+- Preparing manuscript for *IEEE BIBM*.  
+<!-- ![project4](p4.png)      -->
 
 ### Hybrid Wheeled-Legged Exoskeleton Design  
 *Dec 2022 – May 2023* | *Independent Author*  
 - Designed an exoskeleton integrating wheeled and legged locomotion, modeled in SolidWorks.  
-- Presented animated simulations; won top innovation prize at Fengru Cup.
+- Presented animated simulations; won top innovation prize at Fengru Cup.  
+![project5](p5.png)     
+
 
 ### Deep Learning and Biomechanics-Based Myopia Risk Model  
 *Aug 2024 – Oct 2024* | *Software Developer*  
 - Developed a PyQt5 tool for myopia risk prediction using image segmentation, 3D modeling, and risk scoring.  
-- Received top award in the *19th “Challenge Cup” National Innovation Program*.
+- Received top award in the *19th “Challenge Cup” National Innovation Program*.  
+![project2](p6.png)     
 
-## <font color= #527BBD>Extracurricular Activities</font>
+
+## <p style="color:#527BBD">Extracurricular Activities</p>
 ---
 
 - **Starting Player**, School Football Team, *School of Biomedical Engineering, Beihang University, 2022–2024*  
