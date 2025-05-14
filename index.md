@@ -5,7 +5,7 @@
 *Email: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)*  
 *Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu*
 
-$\color{BlueViolet} \textsf {Publications}$  
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Publications</span>  
 ---
 ### Beijing Natural Science Foundation  
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
@@ -28,7 +28,7 @@ $\color{BlueViolet} \textsf {Publications}$
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
 *Under Review, Submitted Apr 2025*
 
-$\color{BlueViolet} \textsf {Awards}$  
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Awards</span>  
 ---
 
 **First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
@@ -38,7 +38,7 @@ $\color{BlueViolet} \textsf {Awards}$
 **Innovation and Entrepreneurship Scholarship**, *Beihang University, 2024*  
 **First-Class Scholarship for Social Practice**, *Beihang University, 2024*
 
-$\color{BlueViolet} \textsf {Patents}$  
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Patents</span>  
 ---
 
 **Invention Patent**: Multi-modal Hand Function Rehabilitation System and Method *CN 118787340 A*  
@@ -48,7 +48,7 @@ $\color{BlueViolet} \textsf {Patents}$
 **Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
 *Under Review, Research-to-Practice Program*
 
-$\color{BlueViolet} \textsf {Research Experience}$  
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Experience</span>  
 ---
 ### Mixed Reality-Based Upper Limb Assessment System  
 *Jan 2025 – Present* | *First Author*  
@@ -91,7 +91,7 @@ $\color{BlueViolet} \textsf {Research Experience}$
 - Received top award in the *19th “Challenge Cup” National Innovation Program*.  
 ![project2](p6.png)     
 
-$\color{BlueViolet} \textsf {Extracurricular Activities}$ 
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Extracurricular</span>  
 ---
 
 - **Starting Player**, School Football Team, *School of Biomedical Engineering, Beihang University, 2022–2024*  
