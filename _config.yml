@@ -6,8 +6,7 @@ theme: minima
 minima:
   skin: light
   social_links:
-    github: songjun113
-    linkedin: yourlinkedin
+    github: https://github.com/Songjun113
 
 author:
   name: "Songjun Du"
