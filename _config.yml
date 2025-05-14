@@ -8,11 +8,6 @@ minima:
   social_links:
     github: https://github.com/Songjun113
 
-author:
-  name: "Songjun Du"
-  email: "dsjzzn@buaa.edu.com"
-  university: "Beihang University"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

@@ -12,16 +12,12 @@
 ***Songjun Du**, Yijin Li, Tao Liu*  
 *QY24143* 
 *Funded, Oct 2024*  
-![Beijing Municipal Natural Science Foundation](BJN.png)
-
 
 ### IRHE Conference 2025  
 **An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
 ***Songjun Du**, Ying Dong, Xiaoyu Liu*  
 *Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics*  
 *Accepted, 2025*  
-![irhe](IRHE.png)  
-
 
 ### IEEE JBHI  
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
