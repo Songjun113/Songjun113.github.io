@@ -1,4 +1,5 @@
-$\color{BlueViolet} \textsf {Bachelor of Engineering in Biomedical Engineering}$  
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Bachelor of Engineering in Biomedical Engineering</span>
+
 *Beihang University, Beijing, China*  
 *Sep 2022 – Jul 2026*  
 *Email: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)*  
