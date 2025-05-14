@@ -1,12 +1,10 @@
-### <p style="color:#527BBD">Bachelor of Engineering in Biomedical Engineering</p>    
+$\color{BlueViolet} \textsf {Bachelor of Engineering in Biomedical Engineering}$  
 *Beihang University, Beijing, China*  
 *Sep 2022 – Jul 2026*  
 *Email: [dsjzzn@buaa.edu.com](mailto:dsjzzn@buaa.edu.com)*  
 *Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu*
 
-
-
-## <p style="color:#527BBD">Publications</p>
+$\color{BlueViolet} \textsf {Publications}$  
 ---
 ### Beijing Natural Science Foundation  
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
@@ -29,7 +27,7 @@
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
 *Under Review, Submitted Apr 2025*
 
-## <p style="color:#527BBD">Awards & Honors</p>
+$\color{BlueViolet} \textsf {Awards}$  
 ---
 
 **First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
@@ -39,8 +37,7 @@
 **Innovation and Entrepreneurship Scholarship**, *Beihang University, 2024*  
 **First-Class Scholarship for Social Practice**, *Beihang University, 2024*
 
-
-## <p style="color:#527BBD">Patents & Software Copyrights</p>
+$\color{BlueViolet} \textsf {Patents}$  
 ---
 
 **Invention Patent**: Multi-modal Hand Function Rehabilitation System and Method *CN 118787340 A*  
@@ -50,7 +47,7 @@
 **Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
 *Under Review, Research-to-Practice Program*
 
-## <p style="color:#527BBD">Research Experience</p>
+$\color{BlueViolet} \textsf {Research Experience}$  
 ---
 ### Mixed Reality-Based Upper Limb Assessment System  
 *Jan 2025 – Present* | *First Author*  
@@ -93,8 +90,7 @@
 - Received top award in the *19th “Challenge Cup” National Innovation Program*.  
 ![project2](p6.png)     
 
-
-## <p style="color:#527BBD">Extracurricular Activities</p>
+$\color{BlueViolet} \textsf {Extracurricular Activities}$ 
 ---
 
 - **Starting Player**, School Football Team, *School of Biomedical Engineering, Beihang University, 2022–2024*  
