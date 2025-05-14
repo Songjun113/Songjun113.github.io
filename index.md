@@ -1,20 +1,17 @@
-<div>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <span style="color: #527BBD; font-family: sans-serif; font-weight: bold; font-size: 1.2em;">Bachelor</span>
-      <p><i>Beihang University, Beijing, China</i></p>
-      <p><i>Engineering in Biomedical Engineering</i></p>
-      <p><i>Sep 2022 – Jul 2026</i></p>
-      <p><i>Email: dsjzzn@buaa.edu.com</i></p>
-      <p><i>Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu</i></p>
-    </td>
-    <td width="25%" style="text-align: right;">
-      <img src="/me.png" width="200px" style="border-radius: 8px;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 3;">  <!-- 75%宽度 -->
+    <span style="color: #527BBD; font-family: sans-serif; font-weight: bold; font-size: 1.2em;">Bachelor</span>
+    <p style="margin: 4px 0;"><i>Beihang University, Beijing, China</i></p>
+    <p style="margin: 4px 0;"><i>Engineering in Biomedical Engineering</i></p>
+    <p style="margin: 4px 0;"><i>Sep 2022 – Jul 2026</i></p>
+    <p style="margin: 4px 0;"><i>Email: dsjzzn@buaa.edu.com</i></p>
+    <p style="margin: 4px 0;"><i>Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu</i></p>
+  </div>
+  <div style="flex: 1; text-align: right;">  <!-- 25%宽度 -->
+    <img src="/me.png" style="width: 200px; border-radius: 8px;">
+  </div>
 </div>
+
 
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Publications</span>  
