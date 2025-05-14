@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 3;">  <!-- 75%宽度 -->
-    <span style="color: #527BBD; font-family: sans-serif; font-weight: bold; font-size: 1.2em;">Bachelor</span>
+    <span style="color: #527BBD; font-family: sans-serif; font-weight: bold; font-size: 1.5em;">Bachelor</span>
     <p style="margin: 4px 0;"><i>Beihang University, Beijing, China</i></p>
     <p style="margin: 4px 0;"><i>Engineering in Biomedical Engineering</i></p>
     <p style="margin: 4px 0;"><i>Sep 2022 – Jul 2026</i></p>
@@ -16,22 +16,19 @@
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Publications</span>  
 ---
-### Beijing Natural Science Foundation  
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
 ***Songjun Du**, Yijin Li, Tao Liu*  
-*QY24143* 
+*Beijing Natural Science Foundation QY24143*  
 *Funded, Oct 2024*  
 
-### IRHE Conference 2025  
 **An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
 ***Songjun Du**, Ying Dong, Xiaoyu Liu*  
 *Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics*  
 *Accepted, 2025*  
 
-### IEEE JBHI  
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
-*Under Review, Submitted Apr 2025*
+*IEEE JBHI, Under Review, Submitted Apr 2025*
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Awards</span>  
 ---
