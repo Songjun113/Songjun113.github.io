@@ -20,12 +20,17 @@
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
 ***Songjun Du**, Yijin Li, Tao Liu*  
 *Beijing Natural Science Foundation QY24143*  
-*Funded, Oct 2024*  
+*Funded, Oct 2024*    
+
+**A Mixed Reality-Based System for Upper Limb Motor Assessment in Stroke Patients with Reduced Cognitive Load**
+***Songjun Du**, Ying Dong, Xiaoyu Liu, Yubo Fan*  
+*Oral Presentation, 2025 China Biomedical Engineering Conference & Medical Innovation Summit*
+*Accepted, 2025.5*
 
 **An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
 ***Songjun Du**, Ying Dong, Xiaoyu Liu*  
 *Oral Presentation, International Conference on Intelligent Rehabilitation and Human Ergonomics*  
-*Accepted, 2025*  
+*Accepted, 2025.4*  
 
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
