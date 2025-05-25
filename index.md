@@ -22,9 +22,9 @@
 *Beijing Natural Science Foundation QY24143*  
 *Funded, Oct 2024*    
 
-**A Mixed Reality-Based System for Upper Limb Motor Assessment in Stroke Patients with Reduced Cognitive Load**
-***Songjun Du**, Ying Dong, Xiaoyu Liu, Yubo Fan*  
-*Oral Presentation, 2025 China Biomedical Engineering Conference & Medical Innovation Summit*
+**A Mixed Reality-Based System for Upper Limb Motor Assessment in Stroke Patients with Reduced Cognitive Load**  
+***Songjun Du**, Ying Dong, Xiaoyu Liu, Yubo Fan*    
+*Oral Presentation, 2025 China Biomedical Engineering Conference & Medical Innovation Summit*  
 *Accepted, 2025.5*
 
 **An MR-Based Upper Limb Motor Assessment System for Stroke Patients with Reduced Cognitive Load**  
@@ -39,12 +39,14 @@
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Awards</span>  
 ---
 
-**First Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
+**Special Prize (Top 0.5%)**, *33rd Fengru Cup Innovation Competition, 2023*  
 **First Prize (Top 1%)**, *9th National Biomedical Engineering Innovation Contest, 2024*  
 **Special Prize (Top 1%)**, *19th “Challenge Cup” National Innovation Program, 2024*  
 **Fengru Star of Innovation and Entrepreneurship**, *Beihang University, 2023*  
 **Innovation and Entrepreneurship Scholarship**, *Beihang University, 2024*  
-**First-Class Scholarship for Social Practice**, *Beihang University, 2024*
+**First-Class Scholarship for Social Practice**, *Beihang University, 2024*  
+**Second Prize (Top 10%)**, *34rd Fengru Cup main Competition, 2024*  
+**First Prize (Top 2%)**, *35rd Fengru Cup main Competition, 2025*  
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Patents</span>  
 ---
