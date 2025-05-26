@@ -34,7 +34,7 @@
 
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
-*IEEE JBHI, Under Review, Submitted Apr 2025*
+*IEEE JBHI, Under Review, Submitted 2025.4*
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Awards</span>  
 ---
@@ -89,7 +89,7 @@
 <!-- ![project4](p4.png)      -->
 
 ### Hybrid Wheeled-Legged Exoskeleton Design  
-*Dec 2022 – May 2023* | *Independent Author*  
+*Dec 2022 – May 2023* | *Only Author*  
 - Designed an exoskeleton integrating wheeled and legged locomotion, modeled in SolidWorks.  
 - Presented animated simulations; won top innovation prize at Fengru Cup.  
 ![project5](p5.png)     
