@@ -5,6 +5,7 @@
     <p style="margin: 4px 0;"><i>Engineering in Biomedical Engineering</i></p>
     <p style="margin: 4px 0;"><i>Sep 2022 – Jul 2026</i></p>
     <p style="margin: 4px 0;"><i>Email: dsjzzn@buaa.edu.com</i></p>
+    <p style="margin: 4px 0;"><i>ORCID: https://orcid.org/0009-0006-4632-263X</i></p>
     <p style="margin: 4px 0;"><i>Research interest: Brain-Computer Interface, Artificial Intelligence, Neurorehabilitation, Mixed Reality</i></p>
     <p style="margin: 4px 0;"><i>Advisors: Prof. Tao Liu, Prof. Xiaoyu Liu</i></p>
   </div>
@@ -34,7 +35,7 @@
 
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
-*IEEE JBHI, Under Review, Submitted 2025.4*
+*IEEE JBHI, Accepted, 10.1109/JBHI.2025.3576248*
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Awards</span>  
 ---
