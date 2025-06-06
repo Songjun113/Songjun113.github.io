@@ -35,7 +35,7 @@
 
 **An Optimization Strategy Allowing a Tactile Glove with Minimal Tactile Sensors for Soft Objects Identification**  
 *Min Tang, Xiaoyu Liu, …, **Songjun Du**, et al.*  
-*IEEE JBHI, Accepted, 10.1109/JBHI.2025.3576248*
+*IEEE JBHI, Accepted, 10.1109/JBHI.2025.3576248 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11023023)*
 
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Awards</span>  
 ---
