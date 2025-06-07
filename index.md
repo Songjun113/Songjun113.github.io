@@ -16,6 +16,13 @@
 
 
 
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">About Me</span>  
+---
+Since childhood, I've been fascinated by brain science. The recent rise of neural networks has given me confidence that humanity is now entering an era where brain research advances through both theory and practice. This inspired me to pursue BME. However, even at Beihang University (ranked A+ in BME discipline assessments), the outdated curriculum fails to meet my needs. Students chase postgraduate admissions by mindlessly mimicking high school study habits, while professors prioritize research over curriculum quality, resulting in a broad yet shallow course design. I believe **mastering exam scores alone cannot equip me to explore my interests upon graduation**.
+
+To address this, I dedicate only two days before exams to coursework, allocating the rest of my time to self-directed exploration and joining top-tier lab projects. During my sophomore and junior years, I independently **led a project from clinical observations, problem identification, innovation design, preliminary validation, grant applications, hospital coordination, experiment design, participant recruitment, data collection, to patent drafting, conference presentations, paper publication, and technology transfer**. This process challenged me to continuously acquire new skills, achieving growth far beyond classroom learning.
+
+
 <span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Publications</span>  
 ---
 **A Personalized Multi-modal Hand Function Assessment and Rehabilitation Platform**  
@@ -59,7 +66,7 @@
 **Invention Patent**: A Thermal Imaging-Based Method for 3D Targeting in Orthopedic Shockwave Therapy  
 *Under Review, Research-to-Practice Program*
 
-<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">Experience</span>  
+<span style="color: #527BBD; font-family: sans-serif; font-weight: bold;">News</span>  
 ---
 ### Mixed Reality-Based Upper Limb Assessment System  
 *Jan 2025 – Present* | *First Author*  
